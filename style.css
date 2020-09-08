@@ -308,7 +308,7 @@ h1 span {
     text-align: center;
     max-width: 1500px;
     margin: 0 auto;
-    padding: 100px 0;  
+    padding-top: 100px;  
 }
 
 #hire .hire-top {
@@ -364,7 +364,7 @@ h1 span {
 }
 
 #hire .hire-bottom .cta {
-    margin: 0 40px;
+    margin: 50px 40px;
     padding: 10px 20px;
     font-size: 2rem;
     color: crimson;
@@ -480,6 +480,7 @@ h1 span {
     max-width: 1200px;
     margin: 0 auto;
     padding: 100px 20px;
+    padding-top: 0px;
 }
 
 #about .col-left {
